@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+  font-family: "Raleway", sans-serif;
+}
+.cabecera {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font: normal normal medium 50px/59px Raleway;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.fondo {
+  width: 100%;
+  padding: 0%;
+  opacity: 1;
+}
+
+.art1 {
+  display: flex;
+}
+.parrafo1 {
+  color: #ffffff;
+}
+
+.part2 {
+  display: flex;
+  background-color: #1e1a13;
+  color: #ffffff;
+  flex-direction: column;
+  
+}
+.centrado{
+padding-left: 40%;
+justify-content: center;
+}
+.carac {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.galeria {
+  display: flex;
+  justify-content: space-evenly;
+}
+.set {
+  width: 25%;
+}
+.fin {
+  background-color: #1e1a13;
+  padding: 3%;
+}
+.visit {
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+}
